@@ -65,9 +65,9 @@ Mora is now moving from theory to practice. An MVP (Minimum Viable Product) is c
 
 Mora’s summer research and MVP were publicly showcased at the Experiential Education Fair at the University of Toronto Mississauga￼ on September 25, 2025. This event marked Mora’s first major milestone on its transition from a hackathon prototype to a research-driven, real-world application.
 
-Following this initial showcase, Mora was further developed and presented at ARIA 2025, where the team demonstrated a second iteration of the MVP. This version moved beyond content delivery to incorporate early active learning and engagement features, reflecting Mora’s shift from passive exposure toward facilitating acquisition within authentic short-form video contexts.
+Following this initial showcase, Mora was further developed and presented at ARIA 2025 (Applied Research in Action), where the team demonstrated a second iteration of the MVP. This version moved beyond content delivery to incorporate early active learning and engagement features, reflecting Mora’s shift from passive exposure toward facilitating acquisition within authentic short-form video contexts.
 
-Looking ahead, Mora will continue its research trajectory through the submission of an abstract to TULCON, with the goal of presenting new theoretical and empirical findings related to video difficulty, learner engagement, and language acquisition in user-generated media environments.
+Looking ahead, Mora will continue its research trajectory through a presentation at TULCON (Toronto Undergraduate Linguistics Conference), with the goal of showcasing new theoretical and empirical findings related to video difficulty, learner engagement, and language acquisition in user-generated media environments.
 
 ### Looking Ahead: From Passive Input to Active Learning
 Mora is currently transitioning from a research phase centered on passive learning from authentic input to a new phase focused on the design and validation of active learning mechanisms within the platform.
@@ -92,7 +92,7 @@ These features are being designed to preserve the natural, immersive feel of sho
 
 #### Toward Launch and Ongoing Evaluation
 
-Alongside continued research and iteration, Mora is preparing for a public app launch planned for February. This launch will serve both as a product milestone and as a foundation for ongoing evaluation, enabling future studies on how passive input, active engagement, and community interaction jointly contribute to language acquisition over time.
+Alongside continued research and iteration, Mora is preparing for a public app launch planned for the end of 2026. This launch will serve both as a product milestone and as a foundation for ongoing evaluation, enabling future studies on how passive input, active engagement, and community interaction jointly contribute to language acquisition over time.
 
 _The sections below pertain to the version of the application developed during UofTHacks._
 
