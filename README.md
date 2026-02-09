@@ -2,6 +2,9 @@
 
 Many language learners struggle to find materials that align with both their  interests and proficiency level. Mora (formerly YouLingo) addresses this gap by leveraging the popularity and appeal of short-form videos, with premises of authentic materials, comprehensible input, and an emphasis on listening and speaking. It allows users to generate content in their native language and interact with target language videos made by others. Throughout stages of design, development, testing, and eventual commercialization, Mora translates evidence-based principles into a self-sustaining language exchange platform.
 
+Video analysis prototype: in the folder [video_analysis](/video_analysis)
+Original hackathon code: elsewhere
+
 ## Contributors
 ### UofTHacks team: the YouLinGoats
 - Adrien Mery
